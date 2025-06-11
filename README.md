@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
+
 - 💻 My website https://james-farrell.vercel.app/
+
 - 📫 How to reach me **james.farrell@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
