@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-- 💻 My website [https://james-farrell.vercel.app/](https://james-farrell.vercel.app/)
+- 💻 My website **https://james-farrell.vercel.app/**
 
 - 📫 How to reach me **james.farrell@epitech.eu**
 
